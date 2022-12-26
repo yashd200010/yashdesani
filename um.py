@@ -28,7 +28,7 @@ def torrent(links, context, update, id):
 
     params = {
 
-        'save_path': '/content/drive/MyDrive',
+        'save_path': '/gdrive',
 
         }
 
